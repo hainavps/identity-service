@@ -7,7 +7,7 @@ eureka:
     service-url:
       defaultZone: http://localhost:8761/eureka/
   instance:
-    hostname: localhost
+    hostname: ASP-springapigatewayservices-a676
 
 server:
   port: 9898
